@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/OSma.gif" alt="Animated GIF" />
+<img align="right" height="150" src="https://tenor.com/pt-BR/view/cat-heart-eyes-yoonmilkers-loafie-gif-24324719" alt="Animated GIF" />
 
 ###
 
