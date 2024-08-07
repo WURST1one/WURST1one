@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/humor-animadas-vomitando-o8jCD5tj54Bsk.gif"  />
+<img align="right" height="150" src="https://tenor.com/pt-BR/view/cat-meme-scream-shout-sad-gif-15786007"  />
 
 ###
 
