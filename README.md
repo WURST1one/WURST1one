@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/cat-meme-scream-shout-sad-gif-15786007.gif"  />
+<img align="right" height="150" src="https://tenor.com/pt-BR/view/quby-chan-gif-22672316"  />
 
 ###
 
