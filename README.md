@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/cat-heart-eyes-yoonmilkers-loafie-gif-24324719"  />
+<img align="right" height="150" src="https://i.gifer.com/OSma.gif"  />
 
 <img src="https://gifer.com/embed/OSma" width=480 height=387.097 frameBorder="0" allowFullScreen></img><p><a href="https://gifer.com">através de GIFER</a></p>
 
