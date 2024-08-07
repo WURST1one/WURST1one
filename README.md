@@ -9,9 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/OSma.gif"  />
-
-<img src="https://gifer.com/embed/OSma" width=480 height=387.097 frameBorder="0" allowFullScreen></img><p><a href="https://gifer.com">através de GIFER</a></p>
+<img align="right" height="150" src="https://i.gifer.com/OSma.gif" alt="Animated GIF" />
 
 ###
 
@@ -47,5 +45,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
