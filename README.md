@@ -33,7 +33,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wurst1one&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
     </td>
     <td>
-      <img height="170" src="https://tenor.com/pt-BR/view/cat-heart-eyes-yoonmilkers-loafie-gif-24324719.gif" alt="Animated GIF" />
+      <img src="https://tenor.com/pt-BR/view/cat-heart-eyes-yoonmilkers-loafie-gif-24324719.gif" height="170" alt="Animated GIF" style="border: none; background: transparent;" />
     </td>
   </tr>
 </table>
