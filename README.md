@@ -28,7 +28,7 @@
 ###
 
 <div align="left">
-            <a href="https://www.instagram.com/psico_wendy?igsh=bDVhbWh3ajd6N3dw" target="_blank" class="icons-button">
+            <a href="https://www.instagram.com/hiq__________/" target="_blank" class="icons-button">
                 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="">
             </a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
