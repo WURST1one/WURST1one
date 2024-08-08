@@ -1,4 +1,6 @@
-<h2 align="left">Hi 🐸! My name is Henrique and I'm from Brazil</h2>
+<h2 align="left">
+  <img src="https://media.giphy.com/media/3o7abgM6hZ12xB9y6w/giphy.gif" alt="Animated Text" />
+</h2>
 
 ###
 
@@ -31,7 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
- 
 </div>
 
 ###
