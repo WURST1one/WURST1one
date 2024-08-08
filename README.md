@@ -24,17 +24,24 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wurst1one&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wurst1one&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Wurst1one&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wurst1one&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  </div>
+  <div>
+    <img height="170" src="https://tenor.com/pt-BR/view/cat-heart-eyes-yoonmilkers-loafie-gif-24324719.gif" alt="Animated GIF" />
+  </div>
 </div>
 
 ###
 
-<p align="right">
-  <img align="right" height="170" src="https://tenor.com/pt-BR/view/cat-heart-eyes-yoonmilkers-loafie-gif-24324719.gif" alt="Animated GIF" />
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Welcome&message=to%20my%20GitHub&color=blue&style=flat-square" alt="Welcome Badge" />
 </p>
 
-###
-
-
+<p align="center">
+  🌟✨🎉
+</p>
