@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="30" alt="mysql logo" />
   <img width="12" />
-  <img color=blue src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="30" alt="handlebars logo" />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="30" alt="handlebars logo" />
 </div>
 
 ###
