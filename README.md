@@ -1,4 +1,4 @@
-  <h2 align="left">Hi 🐸! My name is Henrique and I'm from Brazil</h2>
+<h2 align="left">Hi 🐸! My name is Henrique and I'm from Brazil</h2>
 
 ###
 
@@ -24,27 +24,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-   <img src=https://upload.wikimedia.org/wikipedia/commons/8/8c/MySQL_logo.svg />
-
-
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/MySQL_logo.svg" height="30" alt="mysql logo" />
 </div>
 
 ###
 
 <div align="left">
-            <a href="https://www.instagram.com/hiq__________/" target="_blank" class="icons-button">
-                <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="">
-            </a>
-  <a href="https://gaby.santosbella@gmail.com" target="_blank" class="icons-button">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.instagram.com/hiq__________/" target="_blank" class="icons-button">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="">
+  </a>
+  <a href="mailto:henrique.marchini.souza@gmail.com" target="_blank" class="icons-button">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/henrique-marchini/" target="_blank" class="icons-button">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
 <br clear="both">
-
