@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  ![MySQL](https://upload.wikimedia.org/wikipedia/commons/8/8c/MySQL_logo.svg)
+   <img src=https://upload.wikimedia.org/wikipedia/commons/8/8c/MySQL_logo.svg />
 
 
 
