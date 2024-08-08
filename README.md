@@ -1,6 +1,4 @@
-<h2 align="left">
-  <img src="https://media.giphy.com/media/l1J9t5YQkV1s1yfwU/giphy.gif" alt="Animated Text" />
-</h2>
+<h2 align="left">Hi 🐸! My name is Henrique and I'm from Brazil</h2>
 
 ###
 
@@ -33,6 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
 </div>
 
 ###
@@ -48,6 +48,16 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Welcome&message=to%20my%20GitHub&color=blue&style=flat-square" alt="Welcome Badge" />
+</p>
+
+<p align="center">
+  🌟✨🎉
+</p>
 
 ###
 
