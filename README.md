@@ -1,5 +1,5 @@
 <h2 align="left">
-  <img src="https://media.giphy.com/media/3o7abgM6hZ12xB9y6w/giphy.gif" alt="Animated Text" />
+  <img src="https://media.giphy.com/media/l1J9t5YQkV1s1yfwU/giphy.gif" alt="Animated Text" />
 </h2>
 
 ###
