@@ -24,17 +24,19 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Wurst1one&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wurst1one&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  </div>
-  <div>
-    <img height="170" src="https://tenor.com/pt-BR/view/cat-heart-eyes-yoonmilkers-loafie-gif-24324719.gif" alt="Animated GIF" />
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Wurst1one&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wurst1one&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+    </td>
+    <td>
+      <img height="170" src="https://tenor.com/pt-BR/view/cat-heart-eyes-yoonmilkers-loafie-gif-24324719.gif" alt="Animated GIF" />
+    </td>
+  </tr>
+</table>
 
 ###
 
