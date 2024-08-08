@@ -13,8 +13,8 @@
 
 ###
 
-<div align="center">
-  <div >
+<div >
+  <div align="left" style="position: absolute; bottom: 0; left: 0; padding: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
