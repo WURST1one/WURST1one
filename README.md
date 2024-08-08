@@ -31,13 +31,7 @@
 
 ###
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Welcome&message=to%20my%20GitHub&color=blue&style=flat-square" alt="Welcome Badge" />
-</p>
 
-<p align="center">
-  🌟✨🎉
-</p>
 
 ###
 
